@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-jacques-francois: "Jacques Francois";
+
+  /* font sizes */
+  --font-size-11xl-4: 30.4px;
+  --font-size-25xl-7: 44.7px;
+  --font-size-45xl: 64px;
+  --font-size-27xl-7: 46.7px;
+  --font-size-18xl-9: 37.9px;
+  --font-size-24xl-4: 43.4px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-moccasin: #ffecc2;
+  --color-goldenrod: #df9a33;
+  --color-gainsboro: #d9d9d9;
+  --color-gray: #fffefe;
+}

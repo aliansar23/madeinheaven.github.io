@@ -1,0 +1,75 @@
+.invites-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 191px;
+  object-fit: cover;
+}
+.invites-item {
+  position: absolute;
+  top: 33px;
+  left: calc(50% - 355px);
+  background-color: var(--color-goldenrod);
+  width: 710px;
+  height: 96px;
+}
+.invites1 {
+  position: absolute;
+  top: 50px;
+  left: calc(50% - 101px);
+  display: inline-block;
+  width: 321px;
+  height: 61px;
+}
+.invites-child1,
+.invites-child2,
+.invites-inner {
+  position: absolute;
+  top: 214px;
+  left: -85px;
+  width: 587px;
+  height: 435px;
+  object-fit: cover;
+}
+.invites-child1,
+.invites-child2 {
+  left: 982px;
+  width: 617px;
+}
+.invites-child2 {
+  top: 146px;
+  left: 421px;
+  width: 654px;
+  height: 570px;
+}
+.intimate-cards-to {
+  margin: 0;
+}
+.we-love-to-container {
+  position: absolute;
+  top: 672px;
+  left: 114px;
+  font-size: 37.6px;
+  display: inline-block;
+  width: 1267px;
+  height: 233.7px;
+}
+.all-rights-are5 {
+  position: absolute;
+  top: 946px;
+  left: calc(50% - 175px);
+  font-size: var(--font-size-11xl-4);
+  font-family: var(--font-inter);
+}
+.invites {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-27xl-7);
+  color: var(--color-black);
+  font-family: var(--font-jacques-francois);
+}

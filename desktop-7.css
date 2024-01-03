@@ -1,0 +1,138 @@
+.designer-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 191px;
+  object-fit: cover;
+}
+.designer-item {
+  position: absolute;
+  top: 48px;
+  left: calc(50% - 355px);
+  background-color: var(--color-goldenrod);
+  width: 710px;
+  height: 96px;
+}
+.designer-inner,
+.designer-visits {
+  position: absolute;
+  top: 54px;
+  left: 406px;
+}
+.designer-inner {
+  top: 181px;
+  left: 0;
+  width: 415px;
+  height: 354px;
+  object-fit: cover;
+}
+.designer-child1,
+.designer-child2,
+.designer-child3 {
+  position: absolute;
+  top: 224px;
+  left: 331px;
+  width: 443px;
+  height: 414px;
+  object-fit: cover;
+}
+.designer-child2,
+.designer-child3 {
+  top: 474px;
+  left: 13px;
+  width: 402px;
+  height: 357px;
+}
+.designer-child3 {
+  top: 224px;
+  left: 694px;
+  width: 603px;
+  height: 354px;
+}
+.we-also-provide {
+  margin: 0;
+}
+.we-also-provide-container {
+  position: absolute;
+  top: 581px;
+  left: 680px;
+  font-size: 24.2px;
+  display: inline-block;
+  width: 760.3px;
+  height: 107px;
+}
+.designer-child4,
+.designer-child5 {
+  position: absolute;
+  top: 535px;
+  left: 140px;
+  width: 336px;
+  height: 206px;
+}
+.designer-child5 {
+  top: 838px;
+  left: 13px;
+  width: 328px;
+  height: 137px;
+  object-fit: cover;
+}
+.designer-child6,
+.designer-child7,
+.designer-child8 {
+  position: absolute;
+  top: 829px;
+  left: 521px;
+  width: 266px;
+  height: 146px;
+  object-fit: cover;
+}
+.designer-child7,
+.designer-child8 {
+  top: 811px;
+  left: 694px;
+  width: 281px;
+  height: 164px;
+}
+.designer-child8 {
+  top: 798px;
+  left: 907px;
+  width: 306px;
+  height: 182px;
+}
+.designer-child10,
+.designer-child9 {
+  position: absolute;
+  top: 811px;
+  left: 1180px;
+  width: 269px;
+  height: 151px;
+  object-fit: cover;
+}
+.designer-child10 {
+  top: 849px;
+  left: 278px;
+  width: 338px;
+  height: 116px;
+}
+.all-rights-are4 {
+  position: absolute;
+  top: 999px;
+  left: calc(50% - 152px);
+  font-size: 20.9px;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 282px;
+  height: 25.4px;
+}
+.designer {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-jacques-francois);
+}
