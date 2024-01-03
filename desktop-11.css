@@ -1,0 +1,162 @@
+.desktop-11-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 191px;
+  object-fit: cover;
+}
+.desktop-11-item {
+  position: absolute;
+  top: 48px;
+  left: calc(50% - 355px);
+  background-color: var(--color-goldenrod);
+  width: 710px;
+  height: 96px;
+}
+.find-us {
+  position: absolute;
+  top: 54px;
+  left: 573px;
+  font-size: var(--font-size-45xl);
+}
+.desktop-11-inner,
+.line-icon {
+  position: absolute;
+  top: 228px;
+  left: 156px;
+  width: 353px;
+  height: 3.1px;
+  object-fit: contain;
+}
+.line-icon {
+  top: 234px;
+  left: 919px;
+}
+.our-location {
+  position: absolute;
+  top: 201px;
+  left: calc(50% - 198px);
+}
+.rectangle-div {
+  position: absolute;
+  top: 274px;
+  left: 97px;
+  background-color: var(--color-moccasin);
+  width: 1226px;
+  height: 91px;
+}
+.house-no-91 {
+  position: absolute;
+  top: 290px;
+  left: 200px;
+}
+.contact-no,
+.email {
+  position: absolute;
+  top: 421px;
+  left: 97px;
+}
+.contact-no {
+  top: 520px;
+}
+.desktop-11-child1 {
+  position: absolute;
+  top: 410px;
+  left: 313px;
+  background-color: var(--color-moccasin);
+  width: 741px;
+  height: 82px;
+}
+.madeinheavengmailcom {
+  position: absolute;
+  top: 421px;
+  left: 409px;
+}
+.desktop-11-child2 {
+  position: absolute;
+  top: 518px;
+  left: 473px;
+  background-color: var(--color-moccasin);
+  width: 827px;
+  height: 61px;
+}
+.div {
+  position: absolute;
+  top: 512px;
+  left: 710px;
+}
+.our-socials {
+  position: absolute;
+  top: 624px;
+  left: calc(50% - 170px);
+}
+.desktop-11-child3,
+.desktop-11-child4 {
+  position: absolute;
+  top: 656px;
+  left: 187px;
+  width: 353px;
+  height: 3.1px;
+  object-fit: contain;
+}
+.desktop-11-child4 {
+  top: 649px;
+  left: 899px;
+}
+.desktop-11-child5,
+.rectangle-icon {
+  position: absolute;
+  top: 783px;
+  left: 123px;
+  width: 190px;
+  height: 147px;
+  object-fit: cover;
+}
+.desktop-11-child5 {
+  top: 748px;
+  left: 367px;
+  width: 283px;
+  height: 207px;
+}
+.desktop-11-child6,
+.desktop-11-child7 {
+  position: absolute;
+  top: 758px;
+  left: 721px;
+  width: 231px;
+  height: 178px;
+  object-fit: cover;
+}
+.desktop-11-child7 {
+  top: 747px;
+  left: 1054px;
+  width: 253px;
+  height: 183px;
+}
+.all-rights-are,
+.madeinheaven {
+  position: absolute;
+  top: 689px;
+  left: calc(50% - 211px);
+}
+.all-rights-are {
+  top: 978px;
+  left: calc(50% - 202px);
+  font-size: var(--font-size-11xl-4);
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 405px;
+  height: 21px;
+}
+.desktop-11 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-25xl-7);
+  color: var(--color-black);
+  font-family: var(--font-jacques-francois);
+}

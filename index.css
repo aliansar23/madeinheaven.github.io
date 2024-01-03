@@ -1,0 +1,246 @@
+.main-page-child {
+  position: absolute;
+  top: 10185px;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 191px;
+  object-fit: cover;
+}
+.main-page-item {
+  position: absolute;
+  top: 10233px;
+  left: calc(50% - 355px);
+  background-color: var(--color-goldenrod);
+  width: 710px;
+  height: 96px;
+}
+.find-us2 {
+  position: absolute;
+  top: 10239px;
+  left: 573px;
+  font-size: var(--font-size-45xl);
+}
+.main-page-child1,
+.main-page-inner {
+  position: absolute;
+  top: 10413px;
+  left: 156px;
+  width: 353px;
+  height: 3.1px;
+  object-fit: contain;
+}
+.main-page-child1 {
+  top: 10419px;
+  left: 919px;
+}
+.our-location1 {
+  position: absolute;
+  top: 10386px;
+  left: calc(50% - 198px);
+}
+.main-page-child2 {
+  position: absolute;
+  top: 10459px;
+  left: 97px;
+  background-color: var(--color-moccasin);
+  width: 1226px;
+  height: 91px;
+}
+.house-no-911 {
+  position: absolute;
+  top: 10475px;
+  left: 200px;
+}
+.contact-no1,
+.email1 {
+  position: absolute;
+  top: 10606px;
+  left: 97px;
+}
+.contact-no1 {
+  top: 10705px;
+}
+.main-page-child3 {
+  position: absolute;
+  top: 10595px;
+  left: 313px;
+  background-color: var(--color-moccasin);
+  width: 741px;
+  height: 82px;
+}
+.madeinheavengmailcom2 {
+  position: absolute;
+  top: 10606px;
+  left: 409px;
+}
+.main-page-child4 {
+  position: absolute;
+  top: 10703px;
+  left: 473px;
+  background-color: var(--color-moccasin);
+  width: 827px;
+  height: 61px;
+}
+.div2 {
+  position: absolute;
+  top: 10697px;
+  left: 710px;
+}
+.group-icon {
+  position: absolute;
+  top: 10822.1px;
+  left: calc(50% - 167.1px);
+  width: 335.4px;
+  height: 33.8px;
+  object-fit: cover;
+}
+.main-page-child5,
+.main-page-child6 {
+  position: absolute;
+  top: 10841px;
+  left: 187px;
+  width: 353px;
+  height: 3.1px;
+  object-fit: contain;
+}
+.main-page-child6 {
+  top: 10834px;
+  left: 899px;
+}
+.main-page-child7,
+.main-page-child8 {
+  position: absolute;
+  top: 10968px;
+  left: 123px;
+  width: 190px;
+  height: 147px;
+  object-fit: cover;
+}
+.main-page-child8 {
+  top: 10933px;
+  left: 367px;
+  width: 283px;
+  height: 207px;
+}
+.main-page-child10,
+.main-page-child9 {
+  position: absolute;
+  top: 10943px;
+  left: 721px;
+  width: 231px;
+  height: 178px;
+  object-fit: cover;
+}
+.main-page-child10 {
+  top: 10932px;
+  left: 1054px;
+  width: 253px;
+  height: 183px;
+}
+.madeinheaven1 {
+  position: absolute;
+  top: 10874px;
+  left: calc(50% - 211px);
+}
+.all-rights-are10 {
+  position: absolute;
+  top: 11163px;
+  left: calc(50% - 202px);
+  font-size: var(--font-size-11xl-4);
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 405px;
+  height: 21px;
+}
+.main-page-child11 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  background-color: var(--color-gray);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1440px;
+  height: 230px;
+}
+.our-vision1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 81px;
+  left: 867px;
+  font-size: var(--font-size-11xl-4);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.services2 {
+  top: 81px;
+  left: 530px;
+}
+.find-us3,
+.our-story2,
+.services2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  font-size: var(--font-size-11xl-4);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.our-story2 {
+  top: calc(50% - 431px);
+  left: 312px;
+  white-space: pre-wrap;
+}
+.find-us3 {
+  top: 81px;
+  left: 710px;
+}
+.main-page-child12 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 235.1px;
+  height: 199px;
+  object-fit: cover;
+}
+.main-page-child13 {
+  position: absolute;
+  top: 231px;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 644px;
+  object-fit: cover;
+}
+.main-page-child14 {
+  position: absolute;
+  top: 877px;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1440px;
+  height: 147px;
+}
+.all-rights-are11 {
+  position: absolute;
+  top: 970px;
+  left: calc(50% - 203px);
+  font-size: var(--font-size-11xl-4);
+  font-family: var(--font-inter);
+}
+.main-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-25xl-7);
+  color: var(--color-black);
+  font-family: var(--font-jacques-francois);
+}

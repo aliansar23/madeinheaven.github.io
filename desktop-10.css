@@ -1,0 +1,63 @@
+.vision-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 191px;
+  object-fit: cover;
+}
+.vision-item {
+  position: absolute;
+  top: 48px;
+  left: calc(50% - 355px);
+  background-color: var(--color-goldenrod);
+  width: 710px;
+  height: 96px;
+}
+.our-vision {
+  position: absolute;
+  top: 54px;
+  left: 539px;
+}
+.vision-inner {
+  position: absolute;
+  top: 239px;
+  left: calc(50% - 158px);
+  width: 316px;
+  height: 195px;
+  object-fit: cover;
+}
+.made-in-heaven {
+  margin: 0;
+}
+.made-in-heaven-container {
+  position: absolute;
+  top: 458px;
+  left: -15px;
+  font-size: 52.7px;
+  text-align: center;
+  display: inline-block;
+  width: 1470.2px;
+  height: 357px;
+}
+.all-rights-are1 {
+  position: absolute;
+  top: 902px;
+  left: calc(50% - 203px);
+  font-size: var(--font-size-11xl-4);
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 405px;
+  height: 21px;
+}
+.vision {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-jacques-francois);
+}
